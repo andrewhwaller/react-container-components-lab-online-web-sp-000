@@ -1,7 +1,8 @@
 // Code MovieReviews Here
 import React, { Component } from 'react';
 
-const MovieReviews = (props) => {
+class MovieReviews = 
+  constructor = (props) => {
     <div className={review-list}>
     </div>
 };
